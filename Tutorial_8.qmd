@@ -7,3 +7,9 @@ editor: visual
 ## Quarto
 
 
+```{r}
+data_set <- read.csv("Data_Tables_Criminal_Incidents_Visualisation_Year_Ending_December_2019.csv")
+```
+
+# Introduction 
+This is a random document to add some data 
